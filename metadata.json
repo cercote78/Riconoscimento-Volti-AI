@@ -1,0 +1,5 @@
+{
+  "name": "Riconoscimento Volti AI",
+  "description": "Un'applicazione web che utilizza l'IA per trovare un volto specifico in una raccolta di immagini. Carica un'immagine di riferimento e una galleria, e l'app identificherà le corrispondenze.",
+  "requestFramePermissions": []
+}
